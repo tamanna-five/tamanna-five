@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="./banner2.png" width="100%">
 </p>
  Hi, I'm Tamanna
 🎓 B.Tech CSE (Morning) @ MSIT (2028)
